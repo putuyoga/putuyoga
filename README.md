@@ -1,26 +1,12 @@
-### Hi there 👋
+### Hi, I'm Yoga ✌️
 
-On paper, i'm currently working on [Tabiko](https://tabiko.com/) as an app developer. In reality, I did lot of stuff other than app development such as website development, content creation, taking care my cats and much more. 
+I'm a remote software engineer based on Indonesia.
 
-#### Technologies that i really 💖
-ES6 Javascript, Typescript, ReactJS, NodeJS, CI/CD, Docker
+- 🔭 I'm currently working on [livingjapan](https://livingjapan.com), [tabiko](https://tabiko.com), & [rvjapan](https://rv-japan.com/)
+- 👨‍💻 Daily: `typescript`, `nodejs`, `graphql`, `docker`, `vuejs`, `scss`, `mongodb`, `aws`
+- ✨ Prior: `php`, `c#`, `win-phone`, `.net`, `react-native`, `nextjs`, `firebase`, `azure`
+- 💖 Interest with: `svelte`, `go`, `kubernetes`
 
-#### Reach me At
 | Stackoverflow | LinkedIn |
 |---|---|
 | <a href="https://stackoverflow.com/users/1419872/i-putu-yoga-permana"><img src="https://stackoverflow.com/users/flair/1419872.png?theme=clean" width="208" height="58" alt="profile for I Putu Yoga Permana at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for I Putu Yoga Permana at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> | <a href="https://linkedin.com/in/putuyoga"><img src="https://i.imgur.com/e2tRkEy.png" height="58" /></a> |
-
-<!--
-**putuyoga/putuyoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
