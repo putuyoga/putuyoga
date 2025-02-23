@@ -1,6 +1,6 @@
 ### Hi, I'm Yoga ✌️
 
-I'm a remote software engineer based on Indonesia.
+I'm a software engineer from Indonesia and built <a href="https://soydev.cc" target="_blank">soydev.cc</a> over the weekend 🔨.
 
 | Stackoverflow | LinkedIn |
 |---|---|
