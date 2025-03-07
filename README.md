@@ -1,6 +1,6 @@
 ### Hi, I'm Yoga ✌️
 
-I'm a software engineer from Indonesia and built <a href="https://soydev.cc" target="_blank">soydev.cc</a> over the weekend 🔨.
+I'm a software engineer from Indonesia and built <a href="https://soydev.cc" target="_blank">🤡 soydev.cc</a> and <a href="https://p90.dev" target="_blank">🧰 p90.dev</a> over the weekend.
 
 | Stackoverflow | LinkedIn |
 |---|---|
